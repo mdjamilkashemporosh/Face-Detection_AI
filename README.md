@@ -1,3 +1,2 @@
-
-### Run 
-  ## python App.py
+### Just Run this Command 
+     python App.py
